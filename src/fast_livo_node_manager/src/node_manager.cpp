@@ -13,7 +13,7 @@
 #include <string>
 #include <thread>
 
-
+//git尝试
 class NodeManager : public rclcpp::Node
 {
 public:
